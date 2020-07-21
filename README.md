@@ -8,3 +8,6 @@ The picture is meant as a reflection on the amount of coverage different issues 
 The picture is creating using the Turtle module in Python. 
 
 
+[![Watch the video](https://twitter.com/i/status/1284937142699831296)]
+
+
