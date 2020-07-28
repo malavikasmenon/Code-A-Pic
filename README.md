@@ -7,6 +7,8 @@ The picture is meant as a reflection on the amount of coverage different issues 
 
 The picture is creating using the Turtle module in Python. 
 
+Disclaimer: Meant to be a work of satire - no offences intended. 
+
 
 
 
